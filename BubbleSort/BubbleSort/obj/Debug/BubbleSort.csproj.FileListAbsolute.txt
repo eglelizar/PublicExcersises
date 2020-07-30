@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\elizabeth.razo\Desktop\Excersises\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb
