@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\bin\Debug\BinaryTreeCountingTheSize.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\bin\Debug\BinaryTreeCountingTheSize.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\bin\Debug\BinaryTreeCountingTheSize.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\obj\Debug\BinaryTreeCountingTheSize.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\obj\Debug\BinaryTreeCountingTheSize.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\obj\Debug\BinaryTreeCountingTheSize.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\BinaryTreeCountingTheSize\BinaryTreeCountingTheSize\obj\Debug\BinaryTreeCountingTheSize.pdb

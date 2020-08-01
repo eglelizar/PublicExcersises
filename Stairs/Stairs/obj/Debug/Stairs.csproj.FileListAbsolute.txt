@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\bin\Debug\Stairs.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\bin\Debug\Stairs.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\bin\Debug\Stairs.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\obj\Debug\Stairs.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\obj\Debug\Stairs.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\obj\Debug\Stairs.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\Stairs\Stairs\obj\Debug\Stairs.csprojResolveAssemblyReference.cache

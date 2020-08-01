@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\bin\Debug\GradesRounded.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\bin\Debug\GradesRounded.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\bin\Debug\GradesRounded.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\obj\Debug\GradesRounded.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\obj\Debug\GradesRounded.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\obj\Debug\GradesRounded.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\GradesRounded\GradesRounded\obj\Debug\GradesRounded.pdb
