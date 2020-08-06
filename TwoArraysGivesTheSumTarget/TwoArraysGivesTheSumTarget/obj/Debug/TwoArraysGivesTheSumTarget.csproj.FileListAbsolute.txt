@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\bin\Debug\TwoArraysGivesTheSumTarget.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\bin\Debug\TwoArraysGivesTheSumTarget.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\bin\Debug\TwoArraysGivesTheSumTarget.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\obj\Debug\TwoArraysGivesTheSumTarget.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\obj\Debug\TwoArraysGivesTheSumTarget.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\obj\Debug\TwoArraysGivesTheSumTarget.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\TwoArraysGivesTheSumTarget\TwoArraysGivesTheSumTarget\obj\Debug\TwoArraysGivesTheSumTarget.pdb

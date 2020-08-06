@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\obj\Debug\DecodeMessage.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\obj\Debug\DecodeMessage.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\bin\Debug\DecodeMessage.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\bin\Debug\DecodeMessage.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\bin\Debug\DecodeMessage.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\obj\Debug\DecodeMessage.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\DecodeMessage\DecodeMessage\obj\Debug\DecodeMessage.pdb
