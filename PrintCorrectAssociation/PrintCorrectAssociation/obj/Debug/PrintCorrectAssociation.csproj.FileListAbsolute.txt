@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\obj\Debug\PrintCorrectAssociation.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\obj\Debug\PrintCorrectAssociation.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\bin\Debug\PrintCorrectAssociation.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\bin\Debug\PrintCorrectAssociation.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\bin\Debug\PrintCorrectAssociation.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\obj\Debug\PrintCorrectAssociation.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\PrintCorrectAssociation\PrintCorrectAssociation\obj\Debug\PrintCorrectAssociation.pdb

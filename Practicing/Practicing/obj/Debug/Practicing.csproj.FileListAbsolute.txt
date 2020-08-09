@@ -1,0 +1,2 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\Practicing\Practicing\obj\Debug\Practicing.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\Practicing\Practicing\obj\Debug\Practicing.csproj.CoreCompileInputs.cache

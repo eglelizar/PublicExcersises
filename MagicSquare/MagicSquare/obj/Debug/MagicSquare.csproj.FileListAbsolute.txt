@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\bin\Debug\MagicSquare.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\bin\Debug\MagicSquare.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\obj\Debug\MagicSquare.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\obj\Debug\MagicSquare.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\MagicSquare\MagicSquare\obj\Debug\MagicSquare.pdb

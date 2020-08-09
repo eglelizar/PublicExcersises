@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\bin\Debug\BirthdayChocolate.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\bin\Debug\BirthdayChocolate.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\bin\Debug\BirthdayChocolate.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\obj\Debug\BirthdayChocolate.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\obj\Debug\BirthdayChocolate.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\obj\Debug\BirthdayChocolate.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\BirthdayChocolate\BirthdayChocolate\obj\Debug\BirthdayChocolate.pdb

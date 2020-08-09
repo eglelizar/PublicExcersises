@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\bin\Debug\MeetingRoom.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\bin\Debug\MeetingRoom.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\bin\Debug\MeetingRoom.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\obj\Debug\MeetingRoom.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\obj\Debug\MeetingRoom.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\obj\Debug\MeetingRoom.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\MeetingRoom\MeetingRoom\obj\Debug\MeetingRoom.pdb
