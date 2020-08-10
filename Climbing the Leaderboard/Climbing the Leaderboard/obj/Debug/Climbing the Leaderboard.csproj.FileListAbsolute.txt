@@ -1,0 +1,7 @@
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\Climbing the Leaderboard.exe.config
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\Climbing the Leaderboard.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\bin\Debug\Climbing the Leaderboard.pdb
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.csprojResolveAssemblyReference.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.csproj.CoreCompileInputs.cache
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.exe
+C:\Users\elizabeth.razo\Desktop\Public exercises\PublicExcersises\Climbing the Leaderboard\Climbing the Leaderboard\obj\Debug\Climbing the Leaderboard.pdb
