@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\eglel\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\eglel\\.nuget\\packages"
+    ]
+  }
+}

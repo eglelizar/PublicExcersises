@@ -1,0 +1,13 @@
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\bin\Debug\netcoreapp3.1\TuplasWithOneRepetitive.exe
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\bin\Debug\netcoreapp3.1\TuplasWithOneRepetitive.deps.json
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\bin\Debug\netcoreapp3.1\TuplasWithOneRepetitive.runtimeconfig.json
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\bin\Debug\netcoreapp3.1\TuplasWithOneRepetitive.runtimeconfig.dev.json
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\bin\Debug\netcoreapp3.1\TuplasWithOneRepetitive.dll
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\bin\Debug\netcoreapp3.1\TuplasWithOneRepetitive.pdb
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.csprojAssemblyReference.cache
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.AssemblyInfoInputs.cache
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.AssemblyInfo.cs
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.csproj.CoreCompileInputs.cache
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.dll
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.pdb
+C:\Users\eglel\OneDrive\Desktop\C# excercises\TuplasWithOneRepetitive\TuplasWithOneRepetitive\obj\Debug\netcoreapp3.1\TuplasWithOneRepetitive.genruntimeconfig.cache
